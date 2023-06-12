@@ -1,1 +1,6 @@
-![Fernando's github activity graph](https://activity-graph.herokuapp.com/graph?username=fernando-jaques&theme=dracula)
+![GitHub Skyline](https://skyline.github.com/fernando-jaques/2023)
+
+## Entre em contato comigo 📬
+
+- LinkedIn: [Fernando Jaques](https://www.linkedin.com/in/fernando-jaques/)
+- Email: fernando.jaques@outlook.com
